@@ -1,6 +1,10 @@
 node_modules
 dist
 .env
+.env.example
 .DS_Store
 migrations
 *.log
+README.md
+
+/generated/prisma
